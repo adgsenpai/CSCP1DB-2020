@@ -1,0 +1,4 @@
+﻿  Q6 Chapter 7.cpp
+C:\Users\Ashlin Darius G\source\repos\Q6 Chapter 7\Q6 Chapter 7.cpp(6,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ashlin Darius G\source\repos\Q6 Chapter 7\Q6 Chapter 7.cpp(13,9): warning C4101: 'temp': unreferenced local variable
+  Q6 Chapter 7.vcxproj -> C:\Users\Ashlin Darius G\source\repos\Q6 Chapter 7\Debug\Q6 Chapter 7.exe

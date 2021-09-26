@@ -1,0 +1,3 @@
+﻿  Q14.cpp
+C:\Users\Ashlin Darius G\source\repos\Q14\Q14.cpp(19,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Q14.vcxproj -> C:\Users\Ashlin Darius G\source\repos\Q14\Debug\Q14.exe

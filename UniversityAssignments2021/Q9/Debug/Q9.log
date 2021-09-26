@@ -1,0 +1,3 @@
+﻿  Q9.cpp
+C:\Users\Ashlin Darius G\source\repos\Q9\Q9.cpp(45,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Q9.vcxproj -> C:\Users\Ashlin Darius G\source\repos\Q9\Debug\Q9.exe
