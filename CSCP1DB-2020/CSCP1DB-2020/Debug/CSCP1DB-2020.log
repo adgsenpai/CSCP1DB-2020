@@ -1,0 +1,6 @@
+﻿  CSCP1DB-2020.cpp
+C:\Users\adgru\source\repos\CSCP1DB-2020\CSCP1DB-2020\CSCP1DB-2020.cpp(66,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adgru\source\repos\CSCP1DB-2020\CSCP1DB-2020\CSCP1DB-2020.cpp(73,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adgru\source\repos\CSCP1DB-2020\CSCP1DB-2020\CSCP1DB-2020.cpp(83,10): warning C4101: 'ptrl': unreferenced local variable
+C:\Users\adgru\source\repos\CSCP1DB-2020\CSCP1DB-2020\CSCP1DB-2020.cpp(99,19): warning C4101: 'q': unreferenced local variable
+  CSCP1DB-2020.vcxproj -> C:\Users\adgru\source\repos\CSCP1DB-2020\Debug\CSCP1DB-2020.exe
